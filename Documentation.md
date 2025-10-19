@@ -1,7 +1,7 @@
 # ML Challenge 2025: Smart Product Pricing Solution Template
 
 ## 1. Executive Summary
-We developed a multimodal regression model using text and image embeddings from product descriptions and photos, combined with IPQ features, to predict prices. 
+We developed a multimodel regression model using text and image embeddings from product descriptions and photos, combined with IPQ features, to predict prices. 
 Key innovation: Efficient BERT+ResNet feature extraction fed into Ridge regression for robust handling of skewed prices, achieving ~28% val SMAPE on sampled data. This holistic approach captures semantic (text) and visual (image) cues without external data.
 
 
