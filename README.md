@@ -1,6 +1,4 @@
-# ML Challenge 2025 Problem Statement
-
-## Smart Product Pricing Challenge
+## Smart Product Pricing
 
 In e-commerce, determining the optimal price point for products is crucial for marketplace success and customer satisfaction. Your challenge is to develop an ML solution that analyzes product details and predict the price of the product. The relationship between product attributes and pricing is complex - with factors like brand, specifications, product quantity directly influence pricing. Your task is to build a model that can analyze these product details holistically and suggest an optimal price.
 
