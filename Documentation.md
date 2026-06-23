@@ -1,4 +1,4 @@
-#Smart Product Pricing Solution
+# Smart Product Pricing Solution
 
 ## 1. Executive Summary
 I developed a multimodel regression model using text and image embeddings from product descriptions and photos, combined with IPQ features, to predict prices. 
